@@ -1,22 +1,26 @@
 # Outlier Frameworks
 
-**Outlier Frameworks** provides playbooks, mindset shifts, and step‑by‑step systems for entrepreneurs and professionals who succeed unconventionally. We built wealth without privilege or shortcuts, escaping the 9‑5 grind and proving doubters wrong. Now we share the frameworks we wish we had: covering finance, lending, investing, compliance, and business strategy.
+Outlier Frameworks is a resource hub built for the underestimated, the busy, and the ambitious.  
+We started with nothing - no privilege, no shortcuts - and learned how to build a six-figure business, escape the 9-5 rat race, and juggle family, life, and work along the way. This space exists to share the real-world frameworks, strategies, and insights that made the difference.
 
-## Mission
-- **Demystify the system**: Turn complex laws, banking codes, and regulatory frameworks into clear, actionable guides.
-- **Empower underdogs**: Give underestimated entrepreneurs the tools and confidence to build lasting wealth.
-- **Share real playbooks**: Every article, download, and resource is based on lived execution—not recycled theory.
+## What You'll Find Here
+This isn't about theory or "hustle culture." It's about clarity. Outlier Frameworks pulls together the puzzle pieces that actually matter:
 
-## About Us
-We weren’t born with a silver spoon. We climbed out of debt, reached a six‑figure net income in the first year (after tax), and built a life on our own terms. Outlier Frameworks is where we share the exact steps we took: from structuring deals and navigating compliance to investing smartly and scaling businesses.
+- **Business & Finance:** breakdowns, strategies, and systems for building and scaling smart.  
+- **Entrepreneurship:** pivots, trial and error, networking, and execution lessons from the trenches.  
+- **Life & Balance:** tools for juggling business, family, and personal growth without burning out.  
+- **Human Behaviour & Learning:** insights from study and real-world application to decode how people think, act, and decide.  
+- **Smarter, Not Harder:** practical hacks, tips, and tricks to navigate complexity and save time.  
+- **Confidence Through Clarity:** summaries and comparisons that cut through information overload so you can act decisively.
 
-If you’ve ever been told you don’t fit the mold—you’re one of us. **Outliers build empires.**
+## Why Outlier Frameworks
+The world floods us with information. Outlier Frameworks filters the noise into usable knowledge: frameworks, options, and data-backed summaries that help you move forward with confidence - whether in business, finance, or everyday decisions.
 
-## Website
-Find our guides, templates, and community at **[outlierframeworks.com](https://outlierframeworks.com)**.
+## Our Promise
+- To share real stories and lived experiences, not recycled theory.  
+- To make every piece actionable, clear, and rooted in integrity.  
+- To keep evolving this hub - adding tools, resources, and strategies over time.  
 
-## Disclaimer
-This repository and the content on our site provide **general information only**. We are not financial, legal, or tax advisors, and nothing here should be taken as personal advice. Always consult qualified professionals before acting on any information.
+---
 
-## License
-Source code in this repository is licensed under the **MIT License**. Written content (blog posts, templates, downloadable guides) is licensed under **Creative Commons BY-NC-ND 4.0** (you may share the content with attribution, but you may not sell or modify it).
+➤️ Explore the full articles, deep-dives, and resources at [OutlierFrameworks.com](link).
