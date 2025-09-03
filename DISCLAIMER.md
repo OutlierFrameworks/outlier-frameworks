@@ -1,19 +1,22 @@
-# Disclaimer & Terms of Use
+# Disclaimer & Terms
 
-The material provided by **Outlier Frameworks** (including this repository and our website) is for **general informational purposes only** and does not constitute financial, legal, or tax advice. We are not licensed financial advisers. You should consult with a qualified professional before making any decisions that could affect your financial or legal situation.
+Content published by **Outlier Frameworks** is for **educational and informational purposes only**.
+It reflects personal research, study, and lived experience across business, finance, human behaviour, and life management.
 
-## No Professional Advice
-- **Not Financial Advice**: Our content explains frameworks, laws, and strategies at a high level. It should not replace personalised financial advice tailored to your circumstances.
-- **Not Legal Advice**: Regulatory references and contract examples are provided as educational guides. Seek legal counsel for any specific matter.
-- **No Tax Advice**: Tax information varies by jurisdiction and may change over time. Always verify with a registered tax professional.
+We are not financial advisers, lawyers, or tax agents. Nothing here should be treated as personal financial, legal, or tax advice. For tailored guidance, consult a licensed professional.
 
-## Accuracy and Updates
-We strive to ensure the accuracy of our content at the time of publication, but laws and regulations evolve. We make no guarantees about the completeness or currency of the information provided. Use at your own risk.
+## Scope
+Our content covers:
+- Real-world frameworks and strategies drawn from building businesses and balancing life.
+- Breakdowns and summaries of complex information across business, finance, entrepreneurship, and personal growth.
+- Insights from research and study into human behaviour and decision-making.
+- Tools, tips, and methods to work smarter, navigate complexity, and build confidence.
+
+## Integrity & Accuracy
+We aim to provide clear, reliable, and practical information. However, laws, systems, and markets evolve. Outlier Frameworks makes no guarantees as to completeness or timeliness. Always verify critical details before acting.
 
 ## Affiliate Disclosure
-Some resources may contain affiliate links. If you click one of these links and make a purchase or sign up for a service, we may receive a small commission at no extra cost to you. These commissions help support our work.
+Some resources may include affiliate links. If you make a purchase through these, we may earn a commission at no additional cost to you. This supports keeping resources free and expanding the hub.
 
 ## Limitation of Liability
-To the fullest extent permitted by law, **Outlier Frameworks**, its directors, and contributors will not be liable for any loss or damage arising from reliance on our information.
-
-By accessing our repository or website, you acknowledge and agree to these terms.
+To the fullest extent permitted by law, **Outlier Frameworks**, its founders, and contributors disclaim liability for any loss or consequence arising from reliance on this content. By engaging with our materials, you accept responsibility for your own decisions and outcomes.
