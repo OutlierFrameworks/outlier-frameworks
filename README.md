@@ -23,4 +23,4 @@ The world floods us with information. Outlier Frameworks filters the noise into 
 
 ---
 
-➤️ Explore the full articles, deep-dives, and resources at [OutlierFrameworks.com](link).
+➤ Explore the full articles, deep-dives, and resources at [OutlierFrameworks.com](https://outlierframeworks.com).
